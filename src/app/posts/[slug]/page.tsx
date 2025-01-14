@@ -5,20 +5,20 @@ import CommentSection from '@/components/CommentsSection';
 
 const posts = {
   'women-in-tech': {
-    title: 'Women in AI-Tech-World',
+    title: 'Women in Tech',
     image: '/women-in-tech.jpg',
     content: `
-     Women have been instrumental in advancing the field of artificial intelligence (AI), breaking barriers and achieving significant milestones. From Ada Lovelace, who laid the foundation for modern computing with her visionary algorithm, to contemporary female leaders driving AI innovation, women have played a critical role in shaping the technological landscape. Their contributions continue to inspire future generations, demonstrating that AI is a domain where talent and expertise transcend gender. As innovators, researchers, and leaders, women are actively influencing the future of AI, fostering diversity, and ensuring that AI technologies are developed ethically, inclusively, and responsibly.
+      Women have played pivotal roles in the tech industry, overcoming barriers to achieve remarkable milestones. From **Ada Lovelace**, who conceptualized the first algorithm, to **Sheryl Sandberg**, the former COO of Facebook, women have been at the forefront of the technological revolution. These women continue to inspire future generations of innovators by proving that technology is a field where anyone, regardless of gender, can thrive.
       <br /><br />
-      Amid challenges, women's presence in artificial intelligence (AI) is steadily growing, with significant contributions shaping the field's future. Women are advancing AI research, promoting ethical development, and driving impactful machine learning applications. Through leadership roles, they foster diverse teams, encourage collaboration, and create inclusive AI solutions that address global challenges. Their efforts are redefining the AI landscape, paving the way for a more innovative and equitable future.
+      Despite the challenges, the presence of women in tech has been steadily increasing, and they are shaping the future of technology with their groundbreaking contributions. In fact, women are making waves in areas like **cybersecurity**, **data science**, **hardware development**, and **artificial intelligence (AI)**. By stepping into leadership roles, women are promoting diversity, fostering collaboration, and creating products that reflect diverse perspectives.
       <br /><br />
-      Women in AI are not only making significant strides in software development but are also playing a pivotal role in shaping the future of technology. As more women ascend to leadership positions, they are driving innovation, advancing inclusivity, and ensuring that AI development reflects a broader spectrum of perspectives. Their contributions are essential in creating a more equitable and forward-thinking technological landscape.
+      Women in tech are not just excelling in software development but are also shaping industries in ways we never imagined. As more women take on leadership roles, they are pushing the boundaries of innovation, making technology more inclusive, and creating a future that reflects diverse voices. 
       <br /><br />
-      It is crucial to continue supporting women entering the AI and technology sectors through technical education, mentorship initiatives, and leadership opportunities. This support will unlock their full potential and help create a more inclusive and innovative industry. By empowering the next generation of women, we can ensure that they see the AI field as an accessible and dynamic career path, paving the way for a future that is shaped by diverse perspectives and voices.
+      It’s important to continue supporting women who are entering the tech field through **STEM education**, mentorship programs, and leadership opportunities, which will unlock new potential and pave the way for a more inclusive world. The next generation of girls should know that the tech industry is theirs for the taking.
     `,
   },
   'diversity-in-tech': {
-    title: 'Diversity in Tech-AI',
+    title: 'Diversity in Tech',
     image: '/diversity-in-tech.jpg',
     content: `
       Diversity in tech is not just a buzzword—it’s a crucial driver of creativity, innovation, and business success. The tech industry has long been criticized for its lack of diversity, particularly in leadership roles, but change is on the horizon. A diverse workforce brings together people from various backgrounds, cultures, and perspectives, which results in more innovative solutions and stronger products.
@@ -31,7 +31,7 @@ const posts = {
     `,
   },
   'women-in-ai': {
-    title: 'Women in AI-Field',
+    title: 'Women in AI',
     image: '/women-in-ai.jpg',
     content: `
       Women are increasingly taking the lead in **artificial intelligence (AI)**, contributing groundbreaking research and solutions to some of the world’s most complex challenges. From AI ethics to machine learning and robotics, women are shaping the future of AI and creating technologies that will impact society for years to come.
@@ -44,7 +44,7 @@ const posts = {
     `,
   },
   'tech-for-good': {
-    title: 'AI-Tech for Good',
+    title: 'Tech for Good',
     image: '/tech-for-good.jpg',
     content: `
       Tech for Good refers to the use of technology to address global challenges and improve lives around the world. From healthcare innovations to environmental sustainability, tech companies and social enterprises are harnessing technology to create solutions for some of the world’s most pressing problems.
@@ -57,7 +57,7 @@ const posts = {
     `,
   },
   'female-founders-in-tech': {
-    title: 'Female Founders in Tech-AI',
+    title: 'Female Founders in Tech',
     image: '/female-founders.jpg',
     content: `
       Women entrepreneurs are reshaping industries as tech startup founders. They are building innovative solutions, challenging the status quo, and creating opportunities for future generations of women in business and technology. From software development to e-commerce, women are founding successful startups that are making an impact globally.
@@ -70,7 +70,7 @@ const posts = {
     `,
   },
   'tech-trends-2024': {
-    title: 'AI-Tech Trends 2024',
+    title: 'Tech Trends 2024',
     image: '/tech-trends-2024.jpg',
     content: `
       As we move into 2024, the tech industry is poised for even more groundbreaking developments. From AI advancements to quantum computing, emerging technologies are expected to revolutionize industries and change the way we live and work.
